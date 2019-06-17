@@ -24,7 +24,7 @@ Think you have five tables, which you need to combine and the result of this is 
 The example is located in /merged
 
 
-<a href="https://ibb.co/ckmxgX5"><img src="https://i.ibb.co/ckmxgX5/pagination.png" alt="pagination" border="0"></a>
-<br> <a href="https://ibb.co/cQ5dRvL"><img src="https://i.ibb.co/cQ5dRvL/using-Custom-Pagination.png" alt="using-Custom-Pagination" border="0"></a>
- <br><a href="https://ibb.co/cwc2hpX"><img src="https://i.ibb.co/cwc2hpX/without-Pagination.png" alt="without-Pagination" border="0"></a> 
- <br><a href="https://ibb.co/nzhcZMD"><img src="https://i.ibb.co/nzhcZMD/with-Pagination-Real-World.png" alt="with-Pagination-Real-World" border="0"></a>
+<a href="https://ibb.co/ckmxgX5"><img src="https://i.ibb.co/VJK3jpy/pagination.png" alt="pagination" border="0"></a>
+<a href="https://ibb.co/cQ5dRvL"><img src="https://i.ibb.co/rHPJqts/using-Custom-Pagination.png" alt="using-Custom-Pagination" border="0"></a>
+<a href="https://ibb.co/cwc2hpX"><img src="https://i.ibb.co/T1BPMnq/without-Pagination.png" alt="without-Pagination" border="0"></a>
+<a href="https://ibb.co/nzhcZMD"><img src="https://i.ibb.co/9sRTzHq/with-Pagination-Real-World.png" alt="with-Pagination-Real-World" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>upload photo</a><br />
